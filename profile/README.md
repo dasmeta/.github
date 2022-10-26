@@ -1,8 +1,8 @@
 [![Das Meta](https://github.com/dasmeta/.github/blob/main/images/Logo1.png)](https://www.dasmeta.com/)
 
 
-<a href="https://www.dasmeta.com/"><img align="left" src="https://github.com/dasmeta/.github/blob/main/images/Text1.png"  width="150" /></a> 
-<a href="https://www.dasmeta.com/contact-us/"><img align="right" src="https://github.com/dasmeta/.github/blob/main/images/Button1.png" width="150" /></a>
+<a href="https://www.dasmeta.com/"><img align="left" src="https://github.com/dasmeta/.github/blob/main/images/Text1.png"/></a> 
+<a href="https://www.dasmeta.com/contact-us/"><img align="right" src="https://github.com/dasmeta/.github/blob/main/images/Button1.png"/></a>
 
 
 
