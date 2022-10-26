@@ -1,1 +1,1 @@
-![Das Meta!](https://github.com/dasmeta/.github/blob/main/images/Logo1.png)(https://www.dasmeta.com/)
+[![Das Meta](https://github.com/dasmeta/.github/blob/main/images/Logo1.png)](https://www.dasmeta.com/)
