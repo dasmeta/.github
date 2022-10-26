@@ -1,12 +1,6 @@
 [![Das Meta](https://github.com/dasmeta/.github/blob/main/images/Logo1.png)](https://www.dasmeta.com/)
 
-
-<!-- <a href="https://www.dasmeta.com/"><img align="left" src="https://github.com/dasmeta/.github/blob/main/images/Text1.png"/></a> 
-<a href="https://www.dasmeta.com/contact-us/"><img align="right" src="https://github.com/dasmeta/.github/blob/main/images/Button1.png"/></a> -->
-
-[![Das Meta](https://github.com/dasmeta/.github/blob/main/images/Text1.png)](https://www.dasmeta.com/contact-us)
-
-[![Das Meta](https://github.com/dasmeta/.github/blob/main/images/Button1.png)](https://www.dasmeta.com/contact-us)
+[![Das Meta](https://github.com/dasmeta/.github/blob/main/images/Banner.png)](https://www.dasmeta.com/contact-us)
 
 
 #
