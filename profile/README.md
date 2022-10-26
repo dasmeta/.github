@@ -2,3 +2,7 @@
 
 
 [![Infrastructure](https://github.com/dasmeta/.github/blob/main/images/Text1.png)](https://www.dasmeta.com/)                     [![Audit](https://github.com/dasmeta/.github/blob/main/images/Button1.png)](https://www.dasmeta.com/contact-us/)
+
+|                                                            Solarized dark                                                            |                                                 Solarized Ocean                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+| [![Infrastructure]([https://...Dark.png)](https://github.com/dasmeta/.github/blob/main/images/Text1.png)](https://www.dasmeta.com/)) | [![Audit](https://github.com/dasmeta/.github/blob/main/images/Button1.png)](https://www.dasmeta.com/contact-us/) |
