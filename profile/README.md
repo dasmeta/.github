@@ -5,7 +5,10 @@
 <a href="https://www.dasmeta.com/contact-us/"><img align="right" src="https://github.com/dasmeta/.github/blob/main/images/Button1.png"/></a>
 
 
-------------
+
+#
+#
+#
 #
 Das Meta is a DevOps company that keeps business needs at its core and provides custom-made technical solutions.
 
