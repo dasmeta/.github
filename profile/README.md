@@ -26,7 +26,7 @@
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <a href="https://www.dasmeta.com/"><img src="https://github.com/dasmeta/.github/blob/main/images/Text1.png" width="300"/></a>
+        	    <a href="https://www.dasmeta.com/"><img src="https://github.com/dasmeta/.github/blob/main/images/Text1.png" width="500"/></a>
       	    </td>
             <td style="padding:10px">
             	<a href="https://www.dasmeta.com/contact-us/"><img src="https://github.com/dasmeta/.github/blob/main/images/Button1.png" width="100"/></a>
