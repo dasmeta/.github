@@ -6,7 +6,7 @@
 #
 Das Meta is a DevOps company that keeps business needs at its core and provides custom-made technical solutions.
 
-We work with companies of all sizes- from startups to large enterprises, to discover the true potential of their business and reach their goals through:
+We work with companies of different sizes- from startups to large enterprises, to discover the true potential of their business and reach their goals through:
 - Cloud architecture consulting
 - Infrastructure implementation
 - Continuous monitoring and maintenance
