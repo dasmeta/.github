@@ -1,1 +1,1 @@
-[![Das Meta][logo]](Dasmeta.png)
+![Das Meta!](Dasmeta.png)
