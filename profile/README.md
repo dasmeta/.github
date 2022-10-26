@@ -2,7 +2,7 @@
 
 <p style={display:flex} float="left">
   <a href="https://www.dasmeta.com/"><img src="https://github.com/dasmeta/.github/blob/main/images/Text1.png"  width="150" /></a> 
-  <a href="https://www.dasmeta.com/contact-us/"><img src="[/img2.png](https://github.com/dasmeta/.github/blob/main/images/Button1.png)" width="150" /></a>
+  <a href="https://www.dasmeta.com/contact-us/"><img src="https://github.com/dasmeta/.github/blob/main/images/Button1.png" width="150" /></a>
 </p>
 
 
