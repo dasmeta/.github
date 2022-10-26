@@ -5,31 +5,32 @@
 <a href="https://www.dasmeta.com/contact-us/"><img align="right" src="https://github.com/dasmeta/.github/blob/main/images/Button1.png"/></a>
 
 
+Das Meta is a DevOps company that keeps business needs at its core and provides custom-made technical solutions.
 
-<!-- [![Infrastructure](https://github.com/dasmeta/.github/blob/main/images/Text1.png)](https://www.dasmeta.com/)
+We work with companies of all sizes- from startups to large enterprises, to discover the true potential of their business and reach their goals through:
+- Cloud architecture consulting
+- Infrastructure implementation
+- Continuous monitoring and maintenance
 
+Our DevOps engineers have 18+ years of experience in assisting business success through tailored technical implementations. See why so many companies across a wide range of industries choose us to accelerate their business growth.
 
-[![Audit](https://github.com/dasmeta/.github/blob/main/images/Button1.png)](https://www.dasmeta.com/contact-us/) -->
+# What We Do?
+The following is the list of the services we provide:
+- Customized solid architecture
+- Ensured risk management
+- Increased performance
+- Continuous monitoring
+- Secured system
+- Ensured compliance
+- Customized storage
+- Increased delivery speed
+- Reduced cost
 
-<!-- <div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <a href="https://www.dasmeta.com/"><img src="https://github.com/dasmeta/.github/blob/main/images/Text1.png" width="300"/></a>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <a href="https://www.dasmeta.com/contact-us/"><img src="https://github.com/dasmeta/.github/blob/main/images/Button1.png" width="100"/></a>
-     </div>
-</div> -->
+# Our approach
+We use the following working models to build your product from start to finish. 
+- **End-to-end Services**: We provide you with complete solutions that are designed for continuous DevTestOps and continuous improvement with all objects being version-controlled and corporate memory maintained.
+- **Tailored DevOps Solutions**: Our team of professionals provide you with projects-based and T&M DevOps customized solutions based on your company's specific needs.
+- **DevOps Staff Augmentation**: In case that Client wants to have or has in-house DevOps team and needs additional resources. Das Meta supports them with contract employees.
 
-<!-- 
-<div id="image-table">
-    <table>
-	    <tr>
-    	    <td style="padding:10px">
-        	    <a href="https://www.dasmeta.com/"><img src="https://github.com/dasmeta/.github/blob/main/images/Text1.png" width="500"/></a>
-      	    </td>
-            <td style="padding:10px">
-            	<a href="https://www.dasmeta.com/contact-us/"><img src="https://github.com/dasmeta/.github/blob/main/images/Button1.png" width="100"/></a>
-            </td>
-        </tr>
-    </table>
-</div> -->
+# Contact us
+See how companies across the globe remain competitive with our DevOps services. [Contact us](https://www.dasmeta.com/contact-us/) to meet with our experienced DevOps engineers and get personalized consultation.
