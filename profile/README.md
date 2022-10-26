@@ -12,11 +12,25 @@
 
 [![Audit](https://github.com/dasmeta/.github/blob/main/images/Button1.png)](https://www.dasmeta.com/contact-us/) -->
 
-<div style="display:flex">
+<!-- <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
           <a href="https://www.dasmeta.com/"><img src="https://github.com/dasmeta/.github/blob/main/images/Text1.png" width="300"/></a>
      </div>
      <div style="flex:1;padding-left:10px;">
           <a href="https://www.dasmeta.com/contact-us/"><img src="https://github.com/dasmeta/.github/blob/main/images/Button1.png" width="100"/></a>
      </div>
+</div> -->
+
+
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <a href="https://www.dasmeta.com/"><img src="https://github.com/dasmeta/.github/blob/main/images/Text1.png" width="300"/></a>
+      	    </td>
+            <td style="padding:10px">
+            	<a href="https://www.dasmeta.com/contact-us/"><img src="https://github.com/dasmeta/.github/blob/main/images/Button1.png" width="100"/></a>
+            </td>
+        </tr>
+    </table>
 </div>
