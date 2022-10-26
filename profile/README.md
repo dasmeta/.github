@@ -1,9 +1,10 @@
 [![Das Meta](https://github.com/dasmeta/.github/blob/main/images/Logo1.png)](https://www.dasmeta.com/)
 
-:------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:
-[![Infrastructure](https://github.com/dasmeta/.github/blob/main/images/Text1.png)](https://www.dasmeta.com/)  |  [![Audit](https://github.com/dasmeta/.github/blob/main/images/Button1.png)](https://www.dasmeta.com/contact-us/)
+<p float="left">
+  <a href="https://www.dasmeta.com/"><img src="https://github.com/dasmeta/.github/blob/main/images/Text1.png"  width="100" /></a>
+  <a href="https://www.dasmeta.com/contact-us/"><img src="[/img2.png](https://github.com/dasmeta/.github/blob/main/images/Button1.png)" width="20" /></a>
+</p>
 
 
 
-
-[![Infrastructure](https://github.com/dasmeta/.github/blob/main/images/Text1.png)](https://www.dasmeta.com/)                     [![Audit](https://github.com/dasmeta/.github/blob/main/images/Button1.png)](https://www.dasmeta.com/contact-us/)
+<!-- [![Infrastructure](https://github.com/dasmeta/.github/blob/main/images/Text1.png)](https://www.dasmeta.com/)                     [![Audit](https://github.com/dasmeta/.github/blob/main/images/Button1.png)](https://www.dasmeta.com/contact-us/) -->
