@@ -1,6 +1,6 @@
 [![Das Meta](https://github.com/dasmeta/.github/blob/main/images/Logo.png)](https://www.dasmeta.com/)
 
-[![Das Meta](https://github.com/dasmeta/.github/blob/main/images/Text.png)](https://www.dasmeta.com/contact-us)
+[![Das Meta](https://github.com/dasmeta/.github/blob/main/images/T.png)](https://www.dasmeta.com/contact-us)
 
 
 #
