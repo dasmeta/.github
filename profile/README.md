@@ -1,4 +1,4 @@
-[![Das Meta](https://github.com/dasmeta/.github/blob/main/images/Logo-M2.png)](https://www.dasmeta.com/)
+[![Das Meta](https://github.com/dasmeta/.github/blob/main/images/M.png)](https://www.dasmeta.com/)
 
 [![Das Meta](https://github.com/dasmeta/.github/blob/main/images/T4.png)](https://www.dasmeta.com/contact-us)
 
