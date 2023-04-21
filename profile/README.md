@@ -1,6 +1,6 @@
-[![Das Meta](https://github.com/dasmeta/.github/blob/main/images/M.png)](https://www.dasmeta.com/)
+[![Das Meta](https://github.com/dasmeta/.github/blob/main/images/M.png)](https://www.dasmeta.com/cloud-consulting-and-business-consulting)
 
-[![Das Meta](https://github.com/dasmeta/.github/blob/main/images/C.png)](https://www.dasmeta.com/contact-us)
+[![Das Meta](https://github.com/dasmeta/.github/blob/main/images/C.png)](https://www.dasmeta.com/contact)
 
 
 #
